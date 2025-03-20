@@ -1,2 +1,2 @@
-mkdocs>=1.0.3
+mkdocs>=1.0.4
 jsonschema2md>=0.3.0
